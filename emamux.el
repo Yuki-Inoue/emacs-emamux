@@ -1,8 +1,10 @@
 ;;; emamux.el --- Interact with tmux -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2016 by Syohei YOSHIDA
+;;               2016 Yuki INOUE
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
+;;         Yuki INOUE <inouetakahiroki@gmail.com>
 ;; URL: https://github.com/syohex/emacs-emamux
 ;; Version: 0.13
 ;; Package-Requires: ((emacs "24") (cl-lib "0.5"))
